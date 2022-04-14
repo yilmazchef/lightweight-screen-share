@@ -28,7 +28,7 @@ This tool can run on Linux, Windows and MAC.
 
 1. pip install -r requirements.txt
 
-2. In a directory, run "**git clone https://github.com/qijungu/screenshare.git**". You will have a new directory "screenshare" with code inside.
+2. In a directory, run "**git clone https://github.com/yilmazchef/lightweight-screen-share.git**". You will have a new directory "screenshare" with code inside.
 
 ## Run as http
 
