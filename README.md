@@ -6,16 +6,6 @@ So, I created this small screen sharing tool in Python. All computers in the sam
 
 In short, the computer to share screen runs this Python script that captures screenshots periodically and hosts screenshots as a streaming web service. Other computers then browse the screenshots with any web browser.
 
-Of course, if you want to share your screen on the Internet, all you need to do is offering this service on the Internet as any other regular services.
-
-## Updates:
-
-+ 10/5/2021: Add https to screen sharing
-
-+ 10/4/2021: Add a feature to set a password to control who can access the screens.
-
-**Security reminder** Do not run this service if you do not need to share screen.
-
 ## Requirements
 
 This tool can run on Linux, Windows and MAC.
